@@ -1,0 +1,313 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "place-1",
+                "commune":"Ovalle",
+                "category": "Realización Técnica, Cientifica o Artistica Contemporánea",
+                "type":"Obra de Arte o Técnica",
+                "sub-type":"Obra de Ingeniería",
+                "Location":"Recoleta",
+                "address":"A 17 km al Noreste de Ovalle",
+                "description":"Embalsa las aguas de los Ríos Hurtado e Higuerillas. Su construcción comenzo en 1929 y finalizó en 1934. Posee una capacidad de 100.000.000 de mts3 destinados exclusivamente para riego cubriendo una superficie total de 55 hecatareas",
+                "longitude": -71.092206,
+                "latitude": -30.495521
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.092206,
+                    -30.495521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "place-2",
+                "commune":"Ovalle",
+                "category": "Folklore",
+                "type":"Feria o Mercado",
+                "sub-type":"Feria o Mercado",
+                "Location":"Ovalle",
+                "address":"Maestranza s/n, Ovalle",
+                "description":"Es la mayor feria agricola del norte del país. Fue inaugurada el 21 de abril de 1986 y construida donde antiguamente esta la maestranza de Ferrocarriles del Estado",
+                "longitude": -71.197291,
+                "latitude": -30.597920
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.197291,
+                    -30.597920
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "place-3",
+                "commune":"Ovalle",
+                "category": "Museo o Manifestación Cultural",
+                "type":"Museo",
+                "sub-type":"Museo",
+                "Location":"Ovalle",
+                "address":"Covarrubias esquina Antofagasta, Ovalle",
+                "description":"El museo del Limarí fue creado por la Sociedad Arqueologica del Ovalle el 17 de Septiembre de 1963.",
+                "longitude": -71.195539,
+                "latitude": -30.599561
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.195539,
+                    -30.599561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "place-4",
+                "commune":"Illapel",
+                "category": "Sitio Natural",
+                "type":"Área Silvestre protegida o reseva de flora y fauna",
+                "sub-type":"Área Silvestre protegida o reseva de flora y fauna",
+                "Location":"Auco",
+                "address":"A 15 km al noreste de Illapel",
+                "description":"Fue Creada en 1983 y es el único lugar del país que se dedica a la conservación de este roedor",
+                "longitude": -71.106366,
+                "latitude": -31.508989
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.106366,
+                    -31.508989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "place-5",
+                "commune":"Illapel",
+                "category": "Sitio Natural",
+                "type":"Río Estero",
+                "sub-type":"Río Estero",
+                "Location":"Illapel",
+                "address":"Ruta D-85, Puente Confluencia",
+                "description":"El río Choapa nace en la cordillera de los Andes y termina su recorrido en la ensenada de Huenteleuquen. Tiene la cuenca de menor extensión de la región, con una superficie de 8.239 km.",
+                "longitude": -71.284811,
+                "latitude": -31.671952
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.284811,
+                    -31.671952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "place-6",
+                "commune":"Los Vilos",
+                "category": "Sitio Natural",
+                "type":"Gruta o Caverna",
+                "sub-type":"Gruta o Caverna",
+                "Location":"Pichidangui",
+                "address":"Pichidangui",
+                "description":"Catalina de los Ríos y Lisperguer, La Quintrala, heredera de una fortuna surgida en los lavaderos de oro del Choapa. Según cuenta la leyenda, arrojaba a sus inquilinos a esta caverna y se ahogaban con la subida del mar.",
+                "longitude": -71.532334,
+                "latitude": -32.145459
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.532334,
+                    -32.145459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "place-6",
+                "commune":"Los Vilos",
+                "category": "Sitio Natural",
+                "type":"Costa",
+                "sub-type":"Bahía o Caleta",
+                "Location":"Pichidangui",
+                "address":"A 26 Km al Sur de Los Vilos",
+                "description":"Pichidangui es reconocido turísticamente por su hermosa bahía de aguas verde turquesa, playa de arenas blanquecinas en forma de herradura ade unos 6 km de largo.",
+                "longitude": -71.5223665,
+                "latitude": -32.136424
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.5223665,
+                    -32.136424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "place-7",
+                "commune":"Canela",
+                "category": "Sitio Natural",
+                "type":"Costa",
+                "sub-type":"Playa o Balneario",
+                "Location":"Puerto Oscuro",
+                "address":"A 37 km de Canela",
+                "description":"La hermosa Bahía de Puerto Oscuro tiene una extensión de unos 600 metros, su playa esta rodeada por altos cerros con unos grandes acantilados con un dificil acceso al pueblo con un camino de tierra angosto de una belleza única.",
+                "longitude": -71.594218,
+                "latitude": -31.421816
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.594218,
+                    -31.421816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "place-8",
+                "commune":"Canela",
+                "category": "Sitio Natural",
+                "type":"Costa",
+                "sub-type":"Bahía o Caleta",
+                "Location":"Puerto Manso",
+                "address":"A 25 km de Canela",
+                "description":"Caleta de Pescadores",
+                "longitude": -71.569658,
+                "latitude": -31.511473
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.569658,
+                    -31.511473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "place-9",
+                "commune":"Vicuña",
+                "category": "Folklore",
+                "type":"Artesanía o Arte",
+                "sub-type":"Tejido e Indumentaria",
+                "Location":"Chapilca",
+                "address":"A 34 km al este de Vicuña",
+                "description":"Chapilca",
+                "longitude": -70.520439,
+                "latitude": -29.898741
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.520439,
+                    -29.898741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "place-10",
+                "commune":"Vicuña",
+                "category": "Realización Técnica, Cientifica o Artistica Contemporánea",
+                "type":"Centro Cientifico",
+                "sub-type":"Observatorio Astronómico",
+                "Location":"Cerro Mamalluca",
+                "address":"A 9 km al nororiente de Vicuña",
+                "description":"En 1994 se convirtió en el primer Observatorio amateur del país con fines turisticos lo que le ha valido varios reconocimientos a nivel mundial.",
+                "longitude": -70.685243,
+                "latitude": -29.989939
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.685243,
+                    -29.989939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "place-11",
+                "commune":"La Higuera",
+                "category": "Sitio Natural",
+                "type":"Costa",
+                "sub-type":"Bahía o Caleta",
+                "Location":"Caleta Totoralillo Norte",
+                "address":"Totoralillo Norte s/n",
+                "description":"Totoralillo Norte es una caleta pesquera. Su principal actividad es la pesca artesanal y la acuicultura.",
+                "longitude": -71.321315,
+                "latitude": -29.491306
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.321315,
+                    -29.491306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "place-12",
+                "commune":"La Higuera",
+                "category": "Sitio Natural",
+                "type":"Costa",
+                "sub-type":"Playa o Balneario",
+                "Location":"Temblador",
+                "address":"A 33 km de la Higuera",
+                "description":"Posee finas arenas, color gris, con regular oleaje y de 1 km. de longitud. Lugar alternativo para el baño que más bien presenta condiciones apropiadas para la pesca y caza submarina.",
+                "longitude": -71.309072,
+                "latitude": -29.478364
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.309072,
+                    -29.478364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "place-13",
+                "commune":"La Higuera",
+                "category": "Sitio Natural",
+                "type":"Costa",
+                "sub-type":"Playa o Balneario",
+                "Location":"Punta de Choros",
+                "address":"A 65 km al noreste de la Higuera",
+                "description":"A los pies de Punta de Choros, presenta una dimensión de 250 metros. Esta playa protegida del viento y oleaje, presenta condiciones favorables para la pesca deportiva y baño.",
+                "longitude": -71.325503,
+                "latitude": -29.401834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.325503,
+                    -29.401834
+                ]
+            }
+        }
+    ]
+}

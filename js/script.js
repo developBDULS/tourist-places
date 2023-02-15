@@ -48,18 +48,21 @@ map.on('click', 'points',(e)=>{
     let data_category = e.features[0].properties.category;
     let data_location = e.features[0].properties.location;
     let data_address = e.features[0].properties.address;
+    let data_description = e.features[0].properties.description;
 
     let tag_commune = document.getElementById('commune')
     let tag_name =  document.getElementById('name')
     let tag_category = document.getElementById('category')
     let tag_location = document.getElementById('location')
-    let tag_address = document.getElementById('address')    
+    let tag_address = document.getElementById('address')
+    let tag_description = document.getElementById('description')      
 
     tag_name.innerHTML = "<b style='font-size:20px'>"+data_name+"</b>";
     tag_commune.innerHTML = "<b>Comuna: </b>"+data_commune;
     tag_category.innerHTML = "<b>Categoría: </b>"+data_category;
     tag_location.innerHTML = "<b>Localidad:</b> "+data_location;
     tag_address.innerHTML = "<b>Dirección:</b> "+data_address; 
+    tag_description.innerHTML = "<b>Descripción:</b> "+data_description; 
 });
 
 const title_container = document.getElementById('info-container');

@@ -22,3 +22,27 @@ hr{
     color: white;
 
   }
+
+.info {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: #6818d9;
+    margin-right: 10px;
+    font-family: Arial, sans-serif;
+    overflow: auto;
+    border-radius: 3px;
+    text-align: center;
+}
+
+#info-container {
+    padding: 10px;
+    box-shadow: 0 1px 2px rgba(92, 1, 203, 0.918);
+    line-height: 18px;
+    height: 39px;
+    margin-top: 5px;
+    margin-left: 40px;
+    width: 180px;
+    color: white;
+    font-size: 14px;
+}

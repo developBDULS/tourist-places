@@ -61,3 +61,8 @@ map.on('click', 'points',(e)=>{
     tag_location.innerHTML = "<b>Localidad:</b> "+data_location;
     tag_address.innerHTML = "<b>Dirección:</b> "+data_address; 
 });
+
+const title_container = document.getElementById('info-container');
+const title_value = document.createElement('span');
+title_value.innerHTML = "<b>Haz click para más info</b>";
+title_container.appendChild(title_value);

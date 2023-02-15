@@ -5,6 +5,7 @@
             "type": "Feature",
             "properties": {
                 "id": "place-1",
+                "name":"Embalse Recoleta",
                 "commune":"Ovalle",
                 "category": "Realización Técnica, Cientifica o Artistica Contemporánea",
                 "type":"Obra de Arte o Técnica",
@@ -27,6 +28,7 @@
             "type": "Feature",
             "properties": {
                 "id": "place-2",
+                "name":"Mercado de Ovalle",
                 "commune":"Ovalle",
                 "category": "Folklore",
                 "type":"Feria o Mercado",
@@ -49,6 +51,7 @@
             "type": "Feature",
             "properties": {
                 "id": "place-3",
+                "name":"Museo de Ovalle",
                 "commune":"Ovalle",
                 "category": "Museo o Manifestación Cultural",
                 "type":"Museo",
@@ -71,6 +74,7 @@
             "type": "Feature",
             "properties": {
                 "id": "place-4",
+                "name":"Reserva Nacional Las Chinchillas",
                 "commune":"Illapel",
                 "category": "Sitio Natural",
                 "type":"Área Silvestre protegida o reseva de flora y fauna",
@@ -93,6 +97,7 @@
             "type": "Feature",
             "properties": {
                 "id": "place-5",
+                "name":"Río Choapa",
                 "commune":"Illapel",
                 "category": "Sitio Natural",
                 "type":"Río Estero",
@@ -115,6 +120,7 @@
             "type": "Feature",
             "properties": {
                 "id": "place-6",
+                "name":"Cueva de la Quintrala",
                 "commune":"Los Vilos",
                 "category": "Sitio Natural",
                 "type":"Gruta o Caverna",
@@ -137,6 +143,7 @@
             "type": "Feature",
             "properties": {
                 "id": "place-6",
+                "name":"Bahía Pichidangui",
                 "commune":"Los Vilos",
                 "category": "Sitio Natural",
                 "type":"Costa",
@@ -159,6 +166,7 @@
             "type": "Feature",
             "properties": {
                 "id": "place-7",
+                "name":"Playa Puerto Oscuro",
                 "commune":"Canela",
                 "category": "Sitio Natural",
                 "type":"Costa",
@@ -181,6 +189,7 @@
             "type": "Feature",
             "properties": {
                 "id": "place-8",
+                "name":"Puerto Manso",
                 "commune":"Canela",
                 "category": "Sitio Natural",
                 "type":"Costa",
@@ -203,13 +212,14 @@
             "type": "Feature",
             "properties": {
                 "id": "place-9",
+                "name":"Artesanos y pueblo de Chapilca",
                 "commune":"Vicuña",
                 "category": "Folklore",
                 "type":"Artesanía o Arte",
                 "sub-type":"Tejido e Indumentaria",
                 "location":"Chapilca",
                 "address":"A 34 km al este de Vicuña",
-                "description":"Chapilca",
+                "description":"Chapilca es un pequeño pueblo, dedicado a la artesanía textil trabajada con lana de oveja hilada a mano y tejída con productos naturales. En la tradición de los tejedores de Chapilca, destaca el trabajo con un telar horizontal de origen indígena.",
                 "longitude": -70.520439,
                 "latitude": -29.898741
             },
@@ -225,6 +235,7 @@
             "type": "Feature",
             "properties": {
                 "id": "place-10",
+                "name":"Observatorio Mamalluca",
                 "commune":"Vicuña",
                 "category": "Realización Técnica, Cientifica o Artistica Contemporánea",
                 "type":"Centro Cientifico",
@@ -247,6 +258,7 @@
             "type": "Feature",
             "properties": {
                 "id": "place-11",
+                "name":"Caleta Totoralillo Norte",
                 "commune":"La Higuera",
                 "category": "Sitio Natural",
                 "type":"Costa",
@@ -269,6 +281,7 @@
             "type": "Feature",
             "properties": {
                 "id": "place-12",
+                "name":"Playa Temblador",
                 "commune":"La Higuera",
                 "category": "Sitio Natural",
                 "type":"Costa",
@@ -291,6 +304,7 @@
             "type": "Feature",
             "properties": {
                 "id": "place-13",
+                "name":"Playa La Barranca",
                 "commune":"La Higuera",
                 "category": "Sitio Natural",
                 "type":"Costa",
